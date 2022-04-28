@@ -1002,7 +1002,7 @@
   dependencies:
     "@formily/shared" "2.0.8"
 
-"@formily/vue@2.0.8", "@formily/vue@^2.0.8":
+"@formily/vue@2.0.8":
   version "2.0.8"
   resolved "https://registry.yarnpkg.com/@formily/vue/-/vue-2.0.8.tgz#7b502724fc4326937392ee9dd9ce919b8f8835ca"
   integrity sha512-PHd/8K7ILRGX6/UttRwv/eMWU0tF/RG3M9qjeCq2hsAl4A2b/3fYI5H/YKG4kruWCC5w5ZTq1SYQYv+vArjQXw==
@@ -1511,12 +1511,10 @@
   optionalDependencies:
     prettier "^1.18.2 || ^2.0.0"
 
-"@vue/composition-api@^1.4.4":
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.4.4.tgz#42cfbe6e3c0dc16100d725cdb0ea1c443919cc7a"
-  integrity sha512-0AMpkSy28NG1BUqTPXLfQzJUnjSp+qUa4jaG7A2FBRSKHJOl1g10/xvNb44+OW5Jg9f79zKOb7PYhFhJG2vLyQ==
-  dependencies:
-    tslib "^2.3.1"
+"@vue/composition-api@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.npmmirror.com/@vue/composition-api/-/composition-api-1.6.0.tgz#41c45672245fff2181f8be1f757c95cb6c9b0316"
+  integrity sha512-m/FbsCXn0Ov2QCYUEIt4yupWJLCL6nfZg/Xx2L5VlFUqgJb2iOrbLnkYSV0TO2VUxkBLSFtTZMyG8IIHZFdKNA==
 
 "@vue/preload-webpack-plugin@^1.1.0":
   version "1.1.2"
@@ -8124,7 +8122,7 @@ tslib@^1.9.0:
   resolved "https://registry.npmmirror.com/tslib/download/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
-tslib@^2.0.3, tslib@^2.3.1:
+tslib@^2.0.3:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
   integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
